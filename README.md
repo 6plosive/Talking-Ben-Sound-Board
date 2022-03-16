@@ -1,6 +1,13 @@
 # Talking Ben Sound Board
  A talking ben sound board that includes all sound from talking ben, I mean ALL TALKING BEN SOUND EFFECTS! and no, I am not a furry. 
 
+How to install:
+1) Go to release
+2) Choose the latest version
+3) Download the .zip file
+4) unzip the file
+
+
 How to use:
 1) Go to bin/debug and run the .exe file 
 
