@@ -5,7 +5,7 @@ How to install:
 1) Go to release
 2) Choose the latest version
 3) Download the .zip file
-4) unzip the file
+4) Unzip the file
 
 
 How to use:
