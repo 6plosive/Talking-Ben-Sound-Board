@@ -17,3 +17,5 @@ OR
 3) go to bin/debug or bin/release and move all audio files (e.g. ben.wav, ho ho ho.wav) to the file with Menu.exe
 4) run the Menu.exe file
 
+Made with love <3
+By 6plosive
