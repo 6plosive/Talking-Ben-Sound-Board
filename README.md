@@ -3,6 +3,7 @@
 
 How to use:
 1) Go to bin/debug and run the .exe file 
+
 OR
 1) run the .sln file (You need visual studio)
 2) click the build button, debug should be fine. 
