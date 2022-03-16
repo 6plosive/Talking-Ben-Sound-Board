@@ -1,5 +1,6 @@
 # Talking Ben Sound Board
  A talking ben sound board that includes all sound from talking ben, I mean ALL TALKING BEN SOUND EFFECTS! and no, I am not a furry. 
+![Talking ben sound board](https://user-images.githubusercontent.com/101194078/158607495-e0b14b71-8b77-4a2c-bae3-adf51d38f322.png)
 
 How to install:
 1) Go to release
